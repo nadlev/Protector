@@ -11,6 +11,22 @@
 		00CBB68A2A9B85F9003725D4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00CBB6892A9B85F9003725D4 /* ContentView.swift */; };
 		00CBB68C2A9B85FA003725D4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 00CBB68B2A9B85FA003725D4 /* Assets.xcassets */; };
 		00CBB6902A9B85FA003725D4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 00CBB68F2A9B85FA003725D4 /* Preview Assets.xcassets */; };
+		00CBB69E2A9B8664003725D4 /* EquipmentLossView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00CBB69D2A9B8664003725D4 /* EquipmentLossView.swift */; };
+		00CBB6A02A9B8674003725D4 /* Personnel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00CBB69F2A9B8674003725D4 /* Personnel.swift */; };
+		00CBB6A22A9B8682003725D4 /* Equipment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00CBB6A12A9B8682003725D4 /* Equipment.swift */; };
+		00CBB6A42A9B8688003725D4 /* Losses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00CBB6A32A9B8688003725D4 /* Losses.swift */; };
+		00CBB6A62A9B8696003725D4 /* DataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00CBB6A52A9B8696003725D4 /* DataManager.swift */; };
+		00CBB6AA2A9B86D5003725D4 /* CustomCellView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00CBB6A92A9B86D5003725D4 /* CustomCellView.swift */; };
+		00CBB6AC2A9B86E0003725D4 /* DefaultCellView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00CBB6AB2A9B86E0003725D4 /* DefaultCellView.swift */; };
+		00CBB6AE2A9B86EB003725D4 /* MaterialView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00CBB6AD2A9B86EB003725D4 /* MaterialView.swift */; };
+		00CBB6B02A9B8711003725D4 /* DetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00CBB6AF2A9B8711003725D4 /* DetailsView.swift */; };
+		00CBB6B22A9B871F003725D4 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00CBB6B12A9B871F003725D4 /* Constants.swift */; };
+		00CBB6B32A9B87EF003725D4 /* personnel_losses.json in Resources */ = {isa = PBXBuildFile; fileRef = 00CBB6A72A9B86AE003725D4 /* personnel_losses.json */; };
+		00CBB6B62A9B8EF2003725D4 /* e-UkraineHead-LOGO.otf in Resources */ = {isa = PBXBuildFile; fileRef = 00CBB6B52A9B8EF2003725D4 /* e-UkraineHead-LOGO.otf */; };
+		00CBB6B92A9B92BE003725D4 /* equipment_losses.json in Resources */ = {isa = PBXBuildFile; fileRef = 00CBB6B82A9B92BE003725D4 /* equipment_losses.json */; };
+		00CBB6BC2A9B9CAF003725D4 /* RussiaLossesEquipmentOryx.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00CBB6BB2A9B9CAF003725D4 /* RussiaLossesEquipmentOryx.swift */; };
+		00CBB6BE2A9B9CBB003725D4 /* russia_losses_equipment_oryx.json in Resources */ = {isa = PBXBuildFile; fileRef = 00CBB6BD2A9B9CBB003725D4 /* russia_losses_equipment_oryx.json */; };
+		00CBB6C02A9B9E0B003725D4 /* EquipmentDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00CBB6BF2A9B9E0B003725D4 /* EquipmentDetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +36,23 @@
 		00CBB68B2A9B85FA003725D4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		00CBB68D2A9B85FA003725D4 /* MacPaw.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = MacPaw.entitlements; sourceTree = "<group>"; };
 		00CBB68F2A9B85FA003725D4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		00CBB69D2A9B8664003725D4 /* EquipmentLossView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EquipmentLossView.swift; sourceTree = "<group>"; };
+		00CBB69F2A9B8674003725D4 /* Personnel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Personnel.swift; sourceTree = "<group>"; };
+		00CBB6A12A9B8682003725D4 /* Equipment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Equipment.swift; sourceTree = "<group>"; };
+		00CBB6A32A9B8688003725D4 /* Losses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Losses.swift; sourceTree = "<group>"; };
+		00CBB6A52A9B8696003725D4 /* DataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataManager.swift; sourceTree = "<group>"; };
+		00CBB6A72A9B86AE003725D4 /* personnel_losses.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = personnel_losses.json; sourceTree = "<group>"; };
+		00CBB6A92A9B86D5003725D4 /* CustomCellView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCellView.swift; sourceTree = "<group>"; };
+		00CBB6AB2A9B86E0003725D4 /* DefaultCellView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefaultCellView.swift; sourceTree = "<group>"; };
+		00CBB6AD2A9B86EB003725D4 /* MaterialView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaterialView.swift; sourceTree = "<group>"; };
+		00CBB6AF2A9B8711003725D4 /* DetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsView.swift; sourceTree = "<group>"; };
+		00CBB6B12A9B871F003725D4 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		00CBB6B52A9B8EF2003725D4 /* e-UkraineHead-LOGO.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "e-UkraineHead-LOGO.otf"; sourceTree = "<group>"; };
+		00CBB6B72A9B8F04003725D4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		00CBB6B82A9B92BE003725D4 /* equipment_losses.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = equipment_losses.json; sourceTree = "<group>"; };
+		00CBB6BB2A9B9CAF003725D4 /* RussiaLossesEquipmentOryx.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RussiaLossesEquipmentOryx.swift; sourceTree = "<group>"; };
+		00CBB6BD2A9B9CBB003725D4 /* russia_losses_equipment_oryx.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = russia_losses_equipment_oryx.json; sourceTree = "<group>"; };
+		00CBB6BF2A9B9E0B003725D4 /* EquipmentDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EquipmentDetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,11 +85,17 @@
 		00CBB6862A9B85F9003725D4 /* MacPaw */ = {
 			isa = PBXGroup;
 			children = (
+				00CBB6B72A9B8F04003725D4 /* Info.plist */,
+				00CBB6992A9B863B003725D4 /* Views */,
+				00CBB6982A9B8633003725D4 /* Models */,
+				00CBB6972A9B8622003725D4 /* Controllers */,
+				00CBB6962A9B8618003725D4 /* DataSet */,
 				00CBB6872A9B85F9003725D4 /* MacPawApp.swift */,
-				00CBB6892A9B85F9003725D4 /* ContentView.swift */,
 				00CBB68B2A9B85FA003725D4 /* Assets.xcassets */,
+				00CBB6B52A9B8EF2003725D4 /* e-UkraineHead-LOGO.otf */,
 				00CBB68D2A9B85FA003725D4 /* MacPaw.entitlements */,
 				00CBB68E2A9B85FA003725D4 /* Preview Content */,
+				00CBB6B12A9B871F003725D4 /* Constants.swift */,
 			);
 			path = MacPaw;
 			sourceTree = "<group>";
@@ -67,6 +106,73 @@
 				00CBB68F2A9B85FA003725D4 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		00CBB6962A9B8618003725D4 /* DataSet */ = {
+			isa = PBXGroup;
+			children = (
+				00CBB6A72A9B86AE003725D4 /* personnel_losses.json */,
+				00CBB6BD2A9B9CBB003725D4 /* russia_losses_equipment_oryx.json */,
+				00CBB6B82A9B92BE003725D4 /* equipment_losses.json */,
+			);
+			path = DataSet;
+			sourceTree = "<group>";
+		};
+		00CBB6972A9B8622003725D4 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				00CBB6A52A9B8696003725D4 /* DataManager.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		00CBB6982A9B8633003725D4 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				00CBB69F2A9B8674003725D4 /* Personnel.swift */,
+				00CBB6A12A9B8682003725D4 /* Equipment.swift */,
+				00CBB6A32A9B8688003725D4 /* Losses.swift */,
+				00CBB6BB2A9B9CAF003725D4 /* RussiaLossesEquipmentOryx.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		00CBB6992A9B863B003725D4 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				00CBB6892A9B85F9003725D4 /* ContentView.swift */,
+				00CBB69C2A9B8650003725D4 /* CellView */,
+				00CBB69B2A9B8648003725D4 /* MaterialView */,
+				00CBB69A2A9B8641003725D4 /* DataView */,
+				00CBB6AF2A9B8711003725D4 /* DetailsView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		00CBB69A2A9B8641003725D4 /* DataView */ = {
+			isa = PBXGroup;
+			children = (
+				00CBB6BF2A9B9E0B003725D4 /* EquipmentDetailView.swift */,
+				00CBB69D2A9B8664003725D4 /* EquipmentLossView.swift */,
+			);
+			path = DataView;
+			sourceTree = "<group>";
+		};
+		00CBB69B2A9B8648003725D4 /* MaterialView */ = {
+			isa = PBXGroup;
+			children = (
+				00CBB6AD2A9B86EB003725D4 /* MaterialView.swift */,
+			);
+			path = MaterialView;
+			sourceTree = "<group>";
+		};
+		00CBB69C2A9B8650003725D4 /* CellView */ = {
+			isa = PBXGroup;
+			children = (
+				00CBB6A92A9B86D5003725D4 /* CustomCellView.swift */,
+				00CBB6AB2A9B86E0003725D4 /* DefaultCellView.swift */,
+			);
+			path = CellView;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -127,6 +233,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				00CBB6BE2A9B9CBB003725D4 /* russia_losses_equipment_oryx.json in Resources */,
+				00CBB6B92A9B92BE003725D4 /* equipment_losses.json in Resources */,
+				00CBB6B62A9B8EF2003725D4 /* e-UkraineHead-LOGO.otf in Resources */,
+				00CBB6B32A9B87EF003725D4 /* personnel_losses.json in Resources */,
 				00CBB6902A9B85FA003725D4 /* Preview Assets.xcassets in Resources */,
 				00CBB68C2A9B85FA003725D4 /* Assets.xcassets in Resources */,
 			);
@@ -139,8 +249,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				00CBB6A42A9B8688003725D4 /* Losses.swift in Sources */,
+				00CBB6A02A9B8674003725D4 /* Personnel.swift in Sources */,
 				00CBB68A2A9B85F9003725D4 /* ContentView.swift in Sources */,
+				00CBB6A62A9B8696003725D4 /* DataManager.swift in Sources */,
+				00CBB69E2A9B8664003725D4 /* EquipmentLossView.swift in Sources */,
+				00CBB6AA2A9B86D5003725D4 /* CustomCellView.swift in Sources */,
+				00CBB6BC2A9B9CAF003725D4 /* RussiaLossesEquipmentOryx.swift in Sources */,
+				00CBB6B02A9B8711003725D4 /* DetailsView.swift in Sources */,
 				00CBB6882A9B85F9003725D4 /* MacPawApp.swift in Sources */,
+				00CBB6C02A9B9E0B003725D4 /* EquipmentDetailView.swift in Sources */,
+				00CBB6AE2A9B86EB003725D4 /* MaterialView.swift in Sources */,
+				00CBB6A22A9B8682003725D4 /* Equipment.swift in Sources */,
+				00CBB6AC2A9B86E0003725D4 /* DefaultCellView.swift in Sources */,
+				00CBB6B22A9B871F003725D4 /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -269,6 +391,7 @@
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = MacPaw/Info.plist;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
@@ -279,7 +402,7 @@
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 13.1;
@@ -287,10 +410,12 @@
 				PRODUCT_BUNDLE_IDENTIFIER = perob.qwert.MacPaw;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -307,6 +432,7 @@
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = MacPaw/Info.plist;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
@@ -317,7 +443,7 @@
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 13.1;
@@ -325,10 +451,12 @@
 				PRODUCT_BUNDLE_IDENTIFIER = perob.qwert.MacPaw;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
